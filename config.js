@@ -1,16 +1,16 @@
 // config.js
 module.exports = {
     // 📱 CONNECT
-    ownerNumber: '919876543210',  // APNA NUMBER (WITHOUT +)
+    ownerNumber: '918101476602',  // APNA NUMBER (WITHOUT +)
     
     // 🤖 BOT PROFILE
-    botName: 'JARVIS AI',
+    botName: 'nughty AI',
     botStatus: '🔥 Ultimate AI Assistant',
     botPic: './bot.png',
     
     // 🧠 AI (Gemini)
     aiEnabled: true,
-    aiApiKey: 'YOUR_GEMINI_API_KEY',
+    aiApiKey: 'AQ.Ab8RN6KqKN0Jp6mus33TwDmJC-l8tOMu7nmfHCGH61AjCEjpkQ',
     aiModel: 'gemini-2.0-flash',
     
     // 👻 GHOST MODE
