@@ -1,0 +1,16 @@
+module.exports = {
+    ownerNumber: '918101476602',
+    botName: 'JARVIS AI 2.0',
+    botStatus: '🚀 2026 Ultimate AI Assistant',
+    aiEnabled: true,
+    aiApiKey: 'YOUR_GEMINI_API_KEY',
+    aiModel: 'gemini-2.0-flash',
+    ghostMode: true,
+    alwaysTyping: true,
+    readReceipts: false,
+    lastSeen: 'none',
+    markOnlineOnConnect: false,
+    randomDelays: true,
+    deleteEnabled: true,
+    autoSaveViewOnce: true,
+};
